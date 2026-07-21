@@ -9685,6 +9685,6 @@ network_policies:
         }
     }
 
-    #[path = "phase0.rs"]
-    mod phase0;
+    #[path = "compatibility.rs"]
+    mod compatibility;
 }
